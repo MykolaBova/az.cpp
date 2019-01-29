@@ -1,1 +1,4 @@
 .idea/*
+*.name
+*.iml
+vcs.xml
